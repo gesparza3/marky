@@ -38,5 +38,5 @@ pipsi install --editable .
 
 ## Usage
 ```
-marky [path-to-md] [path-to-html-template] [destination]
+marky --help
 ```

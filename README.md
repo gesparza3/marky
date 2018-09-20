@@ -33,7 +33,7 @@ cd marky/marky
 
 Then run the following command:
 ```
-pipsi install --editable .
+pipsi install .
 ```
 
 ## Usage
